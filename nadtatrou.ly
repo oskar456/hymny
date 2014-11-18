@@ -131,7 +131,7 @@ verseTwo = \lyricmode {
   spa -- lo, |
   to Slo -- ven -- |
   sko na -- še |
-  pos -- iaĺ tvr -- do |
+  pos -- iaľ tvr -- do |
   spa -- lo. |
   \repeat volta 2 {
     a -- le bles -- |
